@@ -1,0 +1,5 @@
+# hw-stat133-lucyrussell
+
+This homework is about manipulating data in order to create visual aids for understanding the GSW's player performance, as well as learning to use git bash and GitHub repositories to store and track our progress. The visuals for the GSW players include "shot charts", which are plots containing the NBA court position of a shot and whether or not the shot was successful. We must also calculate the 2-pt, 3-pt, and overall effective shot percentages for the players. This assignment is meant to evaluate our fluency in dplyr(), ggplot2(), and base commands, as well as our ability to interpret the data we are producing.
+
+To conclude the workout, we must take all this aggregated information and write an article, detailing and explaining the GSW's player performance. We are required to draw conclusions based on the shot charts, as well as the effective shot percentages from the tables.
